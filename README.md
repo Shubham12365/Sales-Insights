@@ -1,5 +1,5 @@
 # Sales-Insights
-In this project I am tracking and displaying the profit , loss and sales of global superstore using Power Bi tool.
+In this project I am tracking and displaying the profit ,loss and sales of global superstore using Power Bi tool and DAX language.
 Using Power Bi tool of Microsoft I have designed the interactive Dashboard for the store .
 The Final Dashboard is effective at displaying the sales track of Global Store , allowing users to understand the data and make informed decisions.
 It can surely help them in improving their profits.
